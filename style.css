@@ -1,0 +1,44 @@
+
+@media (min-width: 640px) {
+    .sec2 {
+        background-image: url(./images/rode3.jpg);
+        background-position: center center;
+        background-repeat: no-repeat; background-size: cover;
+        height: 60vh;
+    }
+}
+
+
+@media (min-width: 640px) {
+    .sec3 {
+        background-image: url(./images/rode4.jpg);
+        background-position: center center;
+        background-repeat: no-repeat; background-size: cover;
+        height: 60vh;
+    }
+}
+
+@media (min-width: 640px) {
+    .sec4 {
+        background-image: url(./images/rode5.jpg);
+        background-position: center center;
+        background-repeat: no-repeat; background-size: cover;
+        height: 60vh;
+    }
+}
+
+@media (min-width: 640px) {
+ .box {
+  position: absolute;
+  left: -10px;
+    }
+}
+
+@media (min-width: 640px) {
+    .sec5 {
+        background-image: url(./images/rode6.jpg);
+        background-position: center center;
+        background-repeat: no-repeat; background-size: cover;
+        height: 60vh;
+    }
+}
