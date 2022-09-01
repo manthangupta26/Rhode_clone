@@ -15,7 +15,7 @@ Took around a day to make it, but learn lots of things.
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me](https://lambent-sunburst-1676a0.netlify.app)
+[Click me](https://moonlit-semolina-299799.netlify.app)
 
 ### Screenshots
 ___
